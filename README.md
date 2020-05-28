@@ -3,9 +3,9 @@ Tools Spam Indihome by Sintech
 
 ## Cara Install Termux
 ```
-$pkg install git
-$pkg install python3
-$pip install requests
+$apt upgrade && update
+$pkg install git python python2
+$pip install mechanize request bs4
 $git clone https://github.com/bintangsholu21/spamindihome
 $cd indihome
 $python spam.py

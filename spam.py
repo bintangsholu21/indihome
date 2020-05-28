@@ -14,7 +14,7 @@ def balik():
          time.sleep(2)
          balik()
 banner = """
-\t\033[1;92mTOOLS SPAM INDIHOME
+\t\033[1;92mTOOLS SPAM INDIHOME UNLIMITED
 \033[31;1m___________________________________________
 \t\033[33;1m sing gawe : sholayyy
 \t\033[35;1m tim : SINTECH SMADA
